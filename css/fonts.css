@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&family=Kablammo&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.kablammo {
+    font-family: "Kablammo", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 0;
+}
+
+.caesar-dressing-regular {
+    font-family: "Caesar Dressing", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nome {
+    text-decoration: none;
+    color: inherit;
+    font-size: large;
+    display: flex;
+    list-style: none;
+    font-size: xx-large;
+}
+
+.sob {
+    text-decoration: none;
+    color: inherit;
+    font-size: large;
+    display: flex;
+    list-style: none;
+    padding-left: 75px;
+    font-size: x-large;
+}
+
+.links {
+    border-style: solid;
+    padding: 0px 15px 0px 15px;
+    gap: 20px;
+}
+
+.link, .link2, ul   {
+    text-decoration: none;
+    color: inherit;
+    font-size: larger;
+    display: flex;
+    list-style: none;
+}
+
+.email {
+    display: flex;
+    padding-top: 10px;
+}
+
+.img-cont {
+    height: 30px;
+}
+
+.nss {
+    color: white;
+    padding-left: 100px;
+}

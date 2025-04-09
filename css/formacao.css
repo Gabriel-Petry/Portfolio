@@ -1,0 +1,15 @@
+.c1 {
+    height: 100vh;
+    width: 100%;
+    background-image: radial-gradient(ellipse 2000px 1400px at top left, #050505 40%, #0f0f4b 70%, #0044ff 95%);    height: 100vh;
+    position: relative;
+    padding: 150px 75px 0px 75px;
+}
+
+.c2 {
+    height: 100vh;
+    width: 100%;
+    background-image: radial-gradient(ellipse 2000px 1400px at bottom left, #050505 40%, #0f0f4b 70%, #0044ff 95%);    height: 100vh;
+    position: relative;
+    padding: 150px 75px 0px 75px;
+}
