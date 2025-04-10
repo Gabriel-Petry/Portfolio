@@ -49,3 +49,9 @@
     padding-left: 20px;
     padding-right: 70px;
 }
+
+.show {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+}
