@@ -10,6 +10,7 @@
       );
     position: relative;
     padding: 150px 75px 0px 75px;
+    color: white;
 }
 
 .hidden {
@@ -26,7 +27,6 @@
 }
 
 .c1 .entries {
-  color: white;
   padding-top: 75px;
 }
 
@@ -115,4 +115,20 @@
   width: 40px;
 }
 
+.future {
+  align-self: center;
+  padding: 50px 25px 50px 25px;
 
+}
+
+.future-box {
+  box-sizing: border-box;
+  background: #008dba;
+  padding: 25px 35px 20px 35px;
+}
+
+.entry-content p,
+.future-box p {
+  font-style: italic;
+  text-align: justify;
+}

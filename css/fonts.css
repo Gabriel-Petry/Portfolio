@@ -30,7 +30,7 @@
     font-style: normal;
 }
 
-.nome {
+.name {
     text-decoration: none;
     color: inherit;
     font-size: large;
@@ -72,6 +72,7 @@
     height: 30px;
 }
 
-.nss {
+.tittle-h { /* Home TITTLE */
     color: white;
-}
+    padding-left: 75PX;
+} 
