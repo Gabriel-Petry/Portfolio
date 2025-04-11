@@ -17,8 +17,7 @@ body, .banner {
     position: fixed;
     width: 100%;
     z-index: 10;
-    border-style: solid;
-    transition: 0.5s;
+    transition: 1s;
 }
 
 .footer{

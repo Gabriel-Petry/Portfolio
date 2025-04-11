@@ -76,3 +76,8 @@
     color: white;
     padding-left: 75PX;
 } 
+
+.abot { /* About Me at Home */
+    color: #008dba;
+    font-style: italic;
+}

@@ -3,7 +3,6 @@
     background-image: radial-gradient(2000px 1050px at bottom, #000000 60%, rgb(30, 37, 138) 80%);
     height: 100vh;
     position: relative;
-    padding: 100px;
 }
 
 .c2{
@@ -22,6 +21,20 @@
     height: 100vh;
     position: relative;
     padding: 100px;
+}
+
+.about {
+    align-self: center;
+    border-style: solid;
+    padding: 250px 200px 0 150px;
+}
+
+.about p {
+    color: white;
+    text-align: justify;
+    padding: 5px 50px 5px 25px;
+    font-style: italic;
+
 }
 
 .squares {
