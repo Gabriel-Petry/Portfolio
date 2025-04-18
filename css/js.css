@@ -11,6 +11,19 @@
     transform: translateY(0);
 }
 
+.hiddenU {
+    opacity: 0;
+    filter: blur(5px);
+    transform: translateY(100%);
+    transition: all 1s;
+}
+  
+.showU {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(0);
+}
+
 .hiddenR {
     opacity: 0;
     filter: blur(5px);
@@ -24,8 +37,32 @@
     transform: translateX(0);
 }
 
+.hiddenL {
+    opacity: 0;
+    filter: blur(5px);
+    transform: translateX(16%);
+    transition: all 1s;
+}
+
+.showL {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+}
+
 .header-scrolled {
     background-color: rgba(0, 0, 0, 0.767);
     box-shadow: 0 3px 10px rgb(0, 0, 0, 0.15);
     transition: 1s;
+}
+
+.hiddenO {
+    opacity: 0;
+    filter: blur(5px);
+    transition: all 1.5s;
+}
+  
+.showO {
+    opacity: 1;
+    filter: blur(0);
 }
